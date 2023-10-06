@@ -9,6 +9,6 @@ call me Mushlihun on skype lihunskype
 <a href="https://www.paypal.me/mushlihun"><img src="https://img.shields.io/badge/Donate-PayPal-green.svg" alt="paypal"/></a>
 [![GitHub: @mushlihun](https://img.shields.io/github/followers/mushlihun?label=follow&style=social)](https://github.com/mushlihun)
 
-![Image of Yaktocat](https://github.com/mushlihun/pmsphp7/blob/master/storage/screenshoot/1.png)
-![Image of Yaktocat](https://github.com/mushlihun/pmsphp7/blob/master/storage/screenshoot/2.png)
-![Image of Yaktocat](https://github.com/mushlihun/pmsphp7/blob/master/storage/screenshoot/3.png)
+(https://github.com/mushlihun/pmsphp7/blob/master/storage/screenshoot/1.png)
+(https://github.com/mushlihun/pmsphp7/blob/master/storage/screenshoot/2.png)
+(https://github.com/mushlihun/pmsphp7/blob/master/storage/screenshoot/3.png)
